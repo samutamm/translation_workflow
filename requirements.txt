@@ -1,0 +1,6 @@
+apache-airflow==1.10.3
+tensorflow-gpu==2.0.0a0
+numpy
+requests
+tqdm
+sklearn
