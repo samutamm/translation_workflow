@@ -1,5 +1,5 @@
 apache-airflow==1.10.3
-tensorflow-gpu==2.0.0a0
+tensorflow-gpu==2.5.1
 numpy
 requests
 tqdm
